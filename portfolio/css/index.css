@@ -1,0 +1,194 @@
+
+body{
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+    line-height: 1.6;
+    width: 100%;
+    overflow-x: hidden;
+    font-family:'Courier New', Courier, monospace;
+    background-color: #0C1B26;
+    color: rgb(211, 206, 206);
+}
+
+*{
+    box-sizing: border-box;
+}
+
+
+header {
+    width: 100%;
+    display: flex;
+    align-items:center;
+    justify-content: space-between;
+    
+    
+}
+
+header nav a{
+    text-decoration: none;
+    color: #E3A438;
+    padding: 10px;
+
+}
+
+.color1{
+    padding: 0px 10px;
+
+
+    background-color: #0C1B26
+
+}
+.c1{
+    color: #E3A438;
+}
+section h2 {
+    color: aliceblue;
+}
+section h2 strong{
+    color: #E3A438;
+
+}
+
+section p{
+    line-height: 0.9;
+}
+
+.buttoncolle{ display: flex;
+
+}
+.buttoncolle a{
+    text-decoration: none;
+    padding: 20px;
+    
+
+}
+.color{
+    background-color: #E3A438;
+    color: #0C1B26;
+    
+}
+:hover.color{
+    background-color: #805d20;
+    color: #f7f5f3;
+}
+.color2{
+    color: #f7f5f3;
+    background-color: #E3A438;
+}
+
+:hover.color2{
+    background-color: #805d20;
+    color: #f7f5f3;
+
+}
+
+.image{
+    display: flex;
+    justify-content: center;
+}
+.image img{
+    height: 380px;
+    width: auto;
+    border-radius: 10px;
+    max-width: 100%;
+}
+.header2 {
+    background-color: rgb(255, 252, 252);
+    color: black;
+    padding: 0 10px ;
+    padding-bottom: 10px;
+
+}
+
+hr {
+    margin-top: 0% ;
+    
+}
+.color3{
+    color:  #E3A438;
+}
+
+.colora{
+    color: black;
+    border:1px solid  black;
+    margin-bottom: 10px;
+    border-right:1px solid  black;
+    
+}
+
+:hover.colora{
+    background-color: #E3A438;
+    border-color: rgb(255, 253, 253);
+
+
+}
+
+.fin{
+    
+    display: flex;
+    justify-content: space-between;
+
+}
+footer{
+    padding: 10px;
+}
+
+
+
+
+
+
+
+
+.main2{
+    padding: 10px;
+}
+
+li{
+    color: #E3A438;
+}
+
+.color01{ color: white;
+
+}
+
+.blanc{
+    background-color: white;
+    padding-top: 10px;
+}
+.blanc h3{
+    margin-left: 10px;
+    color: #0C1B26;
+}
+
+.color02{
+    color: black;
+}
+
+.blanc p{
+    color: #0C1B26;
+}
+.dernierp{
+    padding-bottom: 20px;
+}
+
+.fin{
+    
+    display: flex;
+    justify-content: space-between;
+
+}
+footer{
+    padding: 10px;
+}
+hr{
+    margin: 0;
+}
+
+.logogit{
+    width: auto;
+    height: 30px;
+}
+
+
