@@ -32,6 +32,17 @@ header nav a{
 
 }
 
+.logo{
+    display: flex;
+    justify-content: space-between;
+    margin-right: 40px;
+}
+.logowhat{
+    width: auto;
+    height: 60px;
+    position: fixed;
+}
+
 .color1{
     padding: 0px 10px;
 
